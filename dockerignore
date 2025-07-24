@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.vscode
+.git
+.gitignore
+.streamlit/config.toml
+credentials.json
+token.json
